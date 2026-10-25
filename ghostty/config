@@ -1,3 +1,9 @@
+# Ghostty config.
+#
+# Theme: Ghostty renamed `catppuccin-mocha` to `Catppuccin Mocha` in v1.1.0
+# (https://github.com/ghostty-org/ghostty/discussions/8702). The old name is
+# now a no-op, so use the new name.
+theme = "Catppuccin Mocha"
 font-size = 19
 background-blur-radius = 20
 mouse-hide-while-typing = true
